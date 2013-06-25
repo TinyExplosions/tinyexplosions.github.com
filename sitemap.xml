@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://TinyExplosions.github.io/blog/2013/06/25/testing-out-octopress/</loc>
+        <lastmod>2013-06-25T09:39:05+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://TinyExplosions.github.io/blog/archives/</loc>
-        <lastmod>2013-06-25T09:16:40+01:00</lastmod>
+        <lastmod>2013-06-25T09:39:05+01:00</lastmod>
     </url>
     <url>
         <loc>http://TinyExplosions.github.io/</loc>
-        <lastmod>2013-06-25T09:16:40+01:00</lastmod>
+        <lastmod>2013-06-25T09:39:05+01:00</lastmod>
     </url>
     <url>
         <loc>http://TinyExplosions.github.io/robots.txt</loc>
